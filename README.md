@@ -26,7 +26,7 @@ go get -u -v github.com/Dreamacro/clash
 
 或下载我编译好的：
 
-Clash for ARMv6L
+[Clash for ARMv6L](https://github.com/gs002/clash_raspberrypi/releases)
 
 ## 配置
 
