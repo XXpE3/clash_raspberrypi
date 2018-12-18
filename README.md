@@ -30,6 +30,8 @@ go get -u -v github.com/Dreamacro/clash
 
 ## 配置
 
+可选：使用 [DNSCrypt-Proxy](https://github.com/gs002/clash_raspberrypi/blob/master/dnscrypt-proxy.md) 替代 Clash 内置 DNS 查询服务。
+
 基础配置：
 ```
 port: 7890
