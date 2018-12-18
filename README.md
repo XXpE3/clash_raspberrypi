@@ -63,7 +63,7 @@ dns:
 iptables -t nat -N CLASH
 iptables -t mangle -N CLASH
 
-iptables -t nat -A CLASH -d x.x.x.x -j RETURN
+iptables -t nat -A CLASH -d x.x.x.x(树莓派局域网IP) -j RETURN
 
 iptables -t nat -A CLASH -d 0.0.0.0/8 -j RETURN
 iptables -t nat -A CLASH -d 10.0.0.0/8 -j RETURN
