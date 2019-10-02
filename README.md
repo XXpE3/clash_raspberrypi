@@ -1,3 +1,5 @@
+Clash 仓库已经有了几乎全部平台的编译版本，这个仓库已停止更新 Clash，请前往 [Clash 仓库](https://github.com/Dreamacro/clash/releases) 下载更新最新版本。
+
 # 特征
 
 使用一个简单的 Raspberry Pi 设备当作局域网 代理 / 网关，供给局域网内的其他设备使用。
